@@ -14,7 +14,7 @@
     "license": "MIT",
     "require": {
         "php": ">=5.4.0",
-        "laravel/laravel": "dev-develop",
+        "laravel/framework": "~5.0",
         "phpspec/phpspec": "2.1.x-dev"
     },
     "autoload": {
